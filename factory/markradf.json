@@ -1,0 +1,9 @@
+{
+	"name": "markradf",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3714c74e-8238-4a2a-a5ba-0951a32f8e0d",
+		"tenantId": "07cc872f-b6e3-487f-834e-25eb4f34ddad"
+	}
+}
